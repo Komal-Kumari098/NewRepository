@@ -1,1 +1,2 @@
 Hello, I am komal.
+changes made to understand git
